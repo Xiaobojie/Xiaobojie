@@ -33,19 +33,3 @@
 
 </div>
 
-<br>
-
-## Tools & Platforms
-
-<div align="center">
-
-<a href="https://www.jetbrains.com/idea"><img src="https://www.mclinyunhai.com/assets/images/badges/intellij.svg" alt="IntelliJ IDEA"></a>
-<a href="https://www.jetbrains.com/androidstudio"><img src="https://www.mclinyunhai.com/profile/badges/androidstudio.svg" alt="Android Studio"></a>
-<a href="https://code.visualstudio.com"><img src="https://www.mclinyunhai.com/profile/badges/vscode.svg" alt="VS Code"></a>
-<a href="https://git-scm.com"><img src="https://www.mclinyunhai.com/profile/badges/git.svg" alt="Git"></a><br>
-<a href="https://github.com"><img src="https://www.mclinyunhai.com/profile/badges/github.svg" alt="GitHub"></a>
-<a href="https://www.linux.org"><img src="https://www.mclinyunhai.com/profile/badges/linux.svg" alt="Linux"></a>
-<a href="https://www.windows.com"><img src="https://www.mclinyunhai.com/profile/badges/windows.svg" alt="Windows"></a>
-<a href="https://www.figma.com"><img src="https://www.mclinyunhai.com/profile/badges/figma.svg" alt="Figma"></a>
-
-</div>
