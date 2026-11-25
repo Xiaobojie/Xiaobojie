@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.ylcmc.top/"><img alt="official website" src="https://img.shields.io/badge/ official website - 官网 -00d8ff?style=flat-square"></a>
   <a href="https://gitee.com/ylcmc"><img alt="Gitee" src="https://img.shields.io/badge/ Gitee - 码云 -00d8ff?style=flat-square"></a>
-  <a href="pvptier.ylcmc.top"><img alt="pvptier" src="https://img.shields.io/badge/ pvptier - PVP等级 -00d8ff?style=flat-square"></a>
+  <a href="https://pvptier.ylcmc.top"><img alt="pvptier" src="https://img.shields.io/badge/ pvptier - PVP等级 -00d8ff?style=flat-square"></a>
   <a href="https://im.qq.com"><img alt="Contact" src="https://img.shields.io/badge/ Contact - QQ 1545695701 -00d8ff?style=flat-square"></a>
 </div>
 
